@@ -1,0 +1,12 @@
+{
+  "name": "gs-persona-studio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/build.mjs && node server.mjs",
+    "start": "node scripts/build.mjs && node server.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node --check src/app.js && node --check src/content-schema.js && node --check scripts/build.mjs && node --check server.mjs",
+    "test": "node --test tests/build.test.mjs"
+  }
+}

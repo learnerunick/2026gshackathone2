@@ -1,0 +1,19 @@
+{
+  "id": 1002,
+  "title": "[샘플] 꽃으로 만나는 작은 쉼 · 영상",
+  "brand": "미디어 데모",
+  "category": "샘플 콘텐츠",
+  "type": "영상",
+  "status": "review",
+  "scene": "travel",
+  "date": "미디어 샘플",
+  "caption": "잠시 꽃을 바라보며 쉬어가는 시간 🌸\n\n이미지·영상 표시를 확인하기 위한 공개 샘플입니다. 실제 GS 상품 또는 AI 생성 결과가 아닙니다. 가상 인플루언서의 구매·사용 경험을 표현하지 않습니다.\n\n출처: MDN interactive-examples CC0 flower.mp4\nhttps://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "version": 1,
+  "media": [
+    {
+      "type": "video",
+      "src": "./data/contents/sample-flower-video/flower.mp4",
+      "poster": "./data/contents/sample-flower-video/poster.jpg"
+    }
+  ]
+}
